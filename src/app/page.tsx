@@ -65,7 +65,7 @@ export default function LandingPage() {
           href: "#about",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/young-japanese-woman-with-jacket-posing-mirror_23-2148870747.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/young-japanese-woman-with-jacket-posing-mirror_23-2148870747.jpg?_wi=1"
       imageAlt="Fashion Editorial"
       avatars={[
         {
@@ -112,7 +112,7 @@ export default function LandingPage() {
           title: "Happy Clients",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/high-angle-woman-working-as-clothing-designer_23-2150762235.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/high-angle-woman-working-as-clothing-designer_23-2150762235.jpg?_wi=1"
       imageAlt="Atelier"
       mediaAnimation="slide-up"
       metricsAnimation="slide-up"
@@ -133,7 +133,7 @@ export default function LandingPage() {
           price: "$89",
           rating: 5,
           reviewCount: "120",
-          imageSrc: "http://img.b2bpic.net/free-photo/studio-with-props-photography_23-2148885673.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/studio-with-props-photography_23-2148885673.jpg?_wi=1",
           imageAlt: "Shirt",
         },
         {
@@ -205,7 +205,7 @@ export default function LandingPage() {
           quote: "The quality is simply unmatched. Fits perfectly.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/flirtatious-lady-massive-round-earrings-red-beret-stylish-trench-coat-sits-by-window-touches-her-hair-coquettishly_197531-26928.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/young-japanese-woman-with-jacket-posing-mirror_23-2148870747.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-japanese-woman-with-jacket-posing-mirror_23-2148870747.jpg?_wi=2",
           imageAlt: "happy fashion customer smiling",
         },
         {
@@ -216,7 +216,7 @@ export default function LandingPage() {
           quote: "Love the minimalist aesthetic. My go-to brand.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/person-drinking-beverage-while-break-time_23-2149256900.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-woman-working-as-clothing-designer_23-2150762235.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/high-angle-woman-working-as-clothing-designer_23-2150762235.jpg?_wi=2",
           imageAlt: "happy fashion customer smiling",
         },
         {
@@ -227,7 +227,7 @@ export default function LandingPage() {
           quote: "Sustainable and stylish. Finally, a brand that gets it.",
           tag: "Verified",
           avatarSrc: "http://img.b2bpic.net/free-photo/overjoyed-hipster-girl-with-green-hair-makes-yes-gesture-clenches-fists-celebrates-success-triumphs-something-dressed-red-leather-jacket-poses-indoor-wins-prize-smiles-feels-glad_273609-53756.jpg",
-          imageSrc: "http://img.b2bpic.net/free-photo/studio-with-props-photography_23-2148885673.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/studio-with-props-photography_23-2148885673.jpg?_wi=2",
           imageAlt: "happy fashion customer smiling",
         },
         {
